@@ -1,0 +1,17 @@
+{
+    "firstName": "Ruslana",
+    "biography": {
+        "birthday": "24/01/1995",
+        "country": "Ukraine",
+        "hobby": [
+            "books",
+            "music",
+            "kino",
+            "programiring"
+        ]
+    },
+    "publicContacts": {
+        "github": "https://github.com/rh-pr",
+        "gitlab": "https://gitlab.com/ruslanaH"
+    }
+}

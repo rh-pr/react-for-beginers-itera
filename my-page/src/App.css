@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+.App {
+  text-align: left;
+  margin-top: 10vh;
+  margin-left: 10vw;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: rgb(139, 54, 214);
+}
+
+a:hover {
+  color: cadetblue;
+}
